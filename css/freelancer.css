@@ -113,9 +113,10 @@ header .intro-text .skills {
         padding-top: 150px;
         padding-bottom: 100px;
     }
-
-    header .intro-text .name {
+    /* font size of Full Name on Landing Page */
+    header .intro-text .name { 
         font-size: 4em;
+        line-height: 1; /* decrease space between first and last names */
     }
 
     header .intro-text .skills {
