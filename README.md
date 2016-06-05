@@ -1,7 +1,6 @@
 # GUILLERMOKRH.COM
-This is the the repository that contains my homepage, guillermokrh.com!
+Hi there! I'm Guillermo K. Rojas Hernandez, and this is the the repository that contains my homepage, guillermokrh.com!
 My personal site is based off the the [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) theme by [Start Bootstrap](http://startbootstrap.com/).  It's an amazing starting point, and I urge you to check it out!
-
 
 
 ------------------------------------------
